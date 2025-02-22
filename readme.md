@@ -1,1 +1,1 @@
-Checking Auto Commit in Github
+React Cdn App Example
